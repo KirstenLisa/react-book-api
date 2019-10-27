@@ -1,0 +1,35 @@
+.ListItem {
+    display: flex;
+    padding: 5px;
+    justify-content: space-between;
+  }
+
+  .BookCover {
+    height: 40px;
+    text-align: left;
+    margin-left: 15px;
+    padding: 10px;
+  }
+  
+  .ListItem__heading {
+  
+    justify-content: right;
+    align-items: center;
+  }
+  
+  .ListItem__title {
+    flex: 4;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .ListItem__author {
+    flex: 4;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  
+
+  

@@ -1,0 +1,18 @@
+  
+.SearchBar {
+    display: flex;
+    flex-direction: row;
+    margin-top: 180px;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .SearchBar__controls {
+    flex: 1;
+    width: 100%;
+  }
+  
+  .SearchBar__controls {
+    flex: 2;
+  }
+

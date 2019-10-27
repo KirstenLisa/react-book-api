@@ -1,0 +1,30 @@
+.FilterOptions {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    background-color: lightgrey;
+    font-size: 24px;
+  }
+  
+  .FilterOptions__option input{
+    margin-right: 10px;
+  }
+  
+  .FilterOptions__option label {
+    color: #7D7D7D;
+  }
+
+  label {
+    padding: 15px;
+  }
+
+  select {
+    font-size: 22px;
+    background-color: white;
+    text-indent: 15px;
+    border: 1px solid #D0CFCE;
+    border-radius: 5px;
+  }
+  
